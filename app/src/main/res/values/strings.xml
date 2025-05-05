@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Flight Booking</string>
+    <string name="plantrip">Plan your trip</string>
+    <string name="gotravel">gotravel</string>
+    <string name="flight">Flight</string>
+    <string name="flighthotel">Flight + Hotel</string>
+    <string name="cars">Cars</string>
+    <string name="to">TO</string>
+    <string name="barcelona">Barcelona, BCN</string>
+    <string name="from">FROM</string>
+    <string name="londonlhr">London, LHR</string>
+    <string name="date">DATE</string>
+    <string name="Aug">15 Aug, 2020</string>
+    <string name="passengers">PASSENGERS</string>
+    <string name="two">2</string>
+    <string name="searchflight">Search Flights</string>
+    <string name="title">Barcelone, BCN - London, LHR</string>
+    <string name="heading">Mon, August 15 - Mon, August 22</string>
+    <string name="time">1 hrs 20 min</string>
+    <string name="nonstop">Non-Stop</string>
+    <string name="fligthDetails">Flight Details</string>
+    <string name="chooseaseat">Choose a Seat</string>
+
+</resources>
